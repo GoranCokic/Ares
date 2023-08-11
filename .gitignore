@@ -3,3 +3,4 @@ log-11-2020-10.log
 log-09-2023-10.log
 *.log
 .idea/*.xml
+bin/
